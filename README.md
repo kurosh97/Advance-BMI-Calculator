@@ -4,7 +4,7 @@
 
 ## Goal
 
-I will be making a Body Mass Index calculator. Based on the user’s weight and height it will calculate their body mass and give a piece of health advice depending on whether if they have eaten too many pies or if they need to eat more pies. 
+I will continue the BMI calculator project and add more features to it. I will be adding the history and persons name feature into this application. 
 
 ## What I learnt
 
