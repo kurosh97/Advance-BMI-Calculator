@@ -4,7 +4,7 @@
 
 ## Goal
 
-I will continue the BMI calculator project and add more features to it. I will be adding the history and persons name feature into this application. 
+I will continue the BMI calculator project that I have fineshed and add more features to it. I will be adding the history and persons name feature into this application. 
 
 ## What I learnt
 
